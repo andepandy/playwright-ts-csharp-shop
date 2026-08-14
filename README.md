@@ -1,4 +1,4 @@
-# Playwright shop tests
+# Playwright TypeScript API + C# UI shop tests
 
 The same shop journeys covered twice:
 
@@ -19,7 +19,6 @@ The API client is fluent: `endpoint()`, `withForm()` / `withPayload()`, then cha
 ## API tests (TypeScript)
 
 ```bash
-cd playwright-shop-tests
 npm install
 npx playwright install
 npm test
