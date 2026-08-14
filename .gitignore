@@ -1,0 +1,6 @@
+node_modules
+playwright-report
+test-results
+ui/bin
+ui/obj
+.DS_Store
